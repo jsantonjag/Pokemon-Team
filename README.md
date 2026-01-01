@@ -44,10 +44,10 @@ El análisis se limita a los 250 primeros Pokémon de la Pokédex (I-II Gen) y p
    * Selección del equipo más equilibrado combinando los análisis anteriores
    * Justificación razonada de la elección final
 7. **Elección de ataques (NLP)**
-  * Selección de los 4 mejores ataques por Pokémon
-  * Priorización de ataques efectivos frente a debilidades
-  * Clasificación automática de movimientos defensivos usando NLP
-  * Para cada ataque se muestra → nombre, tipo, poder y descripción
+   * Selección de los 4 mejores ataques por Pokémon
+   * Priorización de ataques efectivos frente a debilidades
+   * Clasificación automática de movimientos defensivos usando NLP
+   * Para cada ataque se muestra → nombre, tipo, poder y descripción
 
 ## 📈 Resultados
 Este proyecto permite:
